@@ -11,23 +11,21 @@ const About = () => {
         <section className="py-16">
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto">
-              <h1 className="text-4xl font-bold mb-6">About FairCredit</h1>
+              <h1 className="text-4xl font-bold mb-6">About TrustFi</h1>
               <p className="text-lg text-gray-600 mb-8">
-                FairCredit was founded with a mission to create financial inclusion for the 1.7 billion 
-                adults worldwide who lack access to traditional banking services. By leveraging blockchain 
-                technology and alternative data sources, we're building a more equitable financial system.
+              TrustFi is reshaping the lending landscape with a decentralized credit scoring system that eliminates reliance on traditional banks and intermediaries. By leveraging DeFi interactions, trust metrics, and P2P lending, we empower individuals worldwide with fair, transparent, and accessible credit assessment—no credit history required.
               </p>
               
               <h2 className="text-2xl font-semibold mb-4">Our Mission</h2>
               <p className="text-gray-600 mb-8">
-                Our mission is to provide fair credit access to everyone, regardless of their banking history. 
+                Our mission is to provide trustable credit access to everyone, regardless of their banking history. 
                 We believe that financial inclusion is a fundamental right, and that everyone deserves the 
                 opportunity to build a better future.
               </p>
               
               <h2 className="text-2xl font-semibold mb-4">Our Technology</h2>
               <p className="text-gray-600 mb-8">
-                FairCredit uses blockchain technology to create a secure, transparent, and immutable record 
+                TrustFi uses blockchain technology to create a secure, transparent, and immutable record 
                 of financial behavior. Our proprietary algorithms analyze alternative data sources to create 
                 a holistic view of creditworthiness that goes beyond traditional banking metrics.
               </p>

@@ -13,7 +13,7 @@ const HowItWorksPage = () => {
         <section className="py-16">
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center mb-16">
-              <h1 className="text-4xl font-bold mb-6">How FairCredit Works</h1>
+              <h1 className="text-4xl font-bold mb-6">How TrustFi Works</h1>
               <p className="text-lg text-gray-600">
                 Learn how our blockchain-based credit scoring system provides financial access for everyone.
               </p>
@@ -48,23 +48,23 @@ const HowItWorksPage = () => {
                 <div className="bg-white p-6 rounded-lg shadow-sm">
                   <h3 className="text-xl font-semibold mb-2">What data sources do you use?</h3>
                   <p className="text-gray-600">
-                    We analyze alternative data sources such as mobile money transactions, utility bill payments, 
+                    We analyze alternative data sources such as mobile money transactions, earning stability, utility bill payments, 
                     rental history, and digital footprints to establish creditworthiness.
                   </p>
                 </div>
                 
                 <div className="bg-white p-6 rounded-lg shadow-sm">
-                  <h3 className="text-xl font-semibold mb-2">How quickly can I get a credit score?</h3>
+                  <h3 className="text-xl font-semibold mb-2">How quickly can I get a trust score?</h3>
                   <p className="text-gray-600">
-                    Most users receive an initial credit score within 48 hours of connecting their data sources. 
+                    Most users receive an initial trust score within 48 hours of connecting their data sources. 
                     Your score will continue to improve as more data becomes available.
                   </p>
                 </div>
                 
                 <div className="bg-white p-6 rounded-lg shadow-sm">
-                  <h3 className="text-xl font-semibold mb-2">Who can see my credit score?</h3>
+                  <h3 className="text-xl font-semibold mb-2">Who can see my trust score?</h3>
                   <p className="text-gray-600">
-                    Only you and the financial institutions you explicitly authorize can view your credit score. 
+                    Only you and the financial institutions you explicitly authorize can view your trust score. 
                     You maintain full control over who can access your information.
                   </p>
                 </div>
