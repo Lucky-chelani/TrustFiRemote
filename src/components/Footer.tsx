@@ -9,10 +9,8 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8 mb-12">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <div className="w-10 h-10 bg-gradient-to-br from-brand-blue to-brand-teal rounded-md flex items-center justify-center">
-                <span className="text-white font-bold text-xl">FC</span>
-              </div>
-              <h2 className="text-2xl font-bold">FairCredit</h2>
+              
+              <h2 className="text-2xl font-bold">TrustFi</h2>
             </div>
             <p className="text-gray-400 mb-4">
               Building a more inclusive financial system with blockchain technology.
@@ -69,7 +67,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 pt-8">
           <p className="text-gray-400 text-center">
-            &copy; {new Date().getFullYear()} FairCredit. All rights reserved.
+            &copy; {new Date().getFullYear()} TrustFi. All rights reserved.
           </p>
         </div>
       </div>

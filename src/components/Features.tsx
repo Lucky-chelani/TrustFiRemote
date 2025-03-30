@@ -18,7 +18,7 @@ const Features = () => {
             How Our Blockchain Credit Scoring Works
           </h2>
           <p className="text-lg text-gray-600">
-            FairCredit uses innovative technology to provide credit scoring for those excluded by traditional systems.
+            TrustFi uses innovative technology to provide credit scoring for those excluded by traditional systems.
           </p>
         </div>
 

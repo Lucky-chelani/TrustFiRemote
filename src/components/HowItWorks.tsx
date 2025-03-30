@@ -21,7 +21,7 @@ const HowItWorks = () => {
     },
     {
       number: "04",
-      title: "Build Credit",
+      title: "Build Trust Score",
       description: "Improve your score over time by maintaining good financial behavior."
     },
     {
@@ -61,7 +61,7 @@ const HowItWorks = () => {
         </div>
 
         <div className="mt-16 max-w-3xl mx-auto bg-gradient-to-r from-brand-blue to-brand-teal p-8 rounded-xl text-white">
-          <h3 className="text-2xl font-bold mb-4 text-center">Ready to Build Your Credit Score?</h3>
+          <h3 className="text-2xl font-bold mb-4 text-center">Ready to Build Your Trust Score?</h3>
           <div className="grid md:grid-cols-2 gap-4 mb-6">
             <div className="flex items-start gap-2">
               <Check size={20} className="flex-shrink-0 mt-1" />

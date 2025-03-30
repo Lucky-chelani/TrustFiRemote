@@ -10,7 +10,7 @@ const CTA = () => {
         <div className="max-w-4xl mx-auto bg-white rounded-2xl overflow-hidden shadow-lg">
           <div className="grid md:grid-cols-2">
             <div className="p-8 md:p-12">
-              <h2 className="text-3xl font-bold mb-4">Start Building Your Credit Score Today</h2>
+              <h2 className="text-3xl font-bold mb-4">Start Building Your Trust Score Today</h2>
               <p className="text-gray-600 mb-6">
                 Join thousands of people gaining access to fair financial services through our blockchain-based credit scoring.
               </p>

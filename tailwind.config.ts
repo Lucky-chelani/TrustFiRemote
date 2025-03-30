@@ -55,9 +55,11 @@ export default {
 				},
 				// Application specific colors
 				brand: {
-					blue: '#2563EB',
-					teal: '#0D9488',
-					orange: '#F97316',
+					blue: '#1C1C1C',   // Black
+teal: '#3D2B1F',   // Dark Brown
+orange: '#8B4513', // Saddle Brown
+// Sienna Brown
+
 				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
